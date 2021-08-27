@@ -1,0 +1,14 @@
+
+# build
+build/
+*.sln
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+*.opendb
+Makefile
+Makefile.*
+vc140.pdb
+.vscode/
